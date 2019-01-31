@@ -14,7 +14,7 @@ Example of how to run this code is in SDR_examply.py
 
 
 ### Citation
-Please cite this work if you use it in your research. 
+Please cite this work if you use it in your research. <br\>
 @Misc{wu2019,
 author =   {Chieh Wu},
 title =    {{InterpretableKernelDimReduction}: {Interpretable} {Kernel} {Dimension} {Reduction} library},
