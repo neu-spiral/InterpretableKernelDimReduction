@@ -22,7 +22,7 @@ Please cite this work if you use it in your research.
 @Misc{wu2019,  
 author =   {Chieh Wu},  
 title =    {{InterpretableKernelDimReduction}: Interpretable Kernel Dimension Reduction library},  
-howpublished = {\url{http://gts.sourceforge.net/}},  
+howpublished = {\url{https://github.com/neu-spiral/InterpretableKernelDimReduction}},  
 year = {2019--2019}  
 }  
 
